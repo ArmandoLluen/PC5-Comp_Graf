@@ -1,0 +1,3 @@
+referencia
+https://www.youtube.com/watch?v=v_cwOq06g9E
+https://omes-va.com/como-crear-tu-propio-detector-de-objetos-con-haar-cascade-python-y-opencv/
